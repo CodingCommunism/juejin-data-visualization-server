@@ -1,0 +1,16 @@
+{
+  "name": "get-juejin-info",
+  "version": "1.0.0",
+  "description": "get juejin info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gepingli",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "js-base64": "^3.6.1",
+    "superagent": "^6.1.0"
+  }
+}
